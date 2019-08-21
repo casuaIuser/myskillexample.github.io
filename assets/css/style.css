@@ -1,0 +1,111 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+hr{
+	opacity: 0.8;
+	border-radius: 20px;
+	margin: 100px 25% 100px 25%;
+	width: 50%;
+	border:solid 1px white;
+}
+.main{
+	background-attachment: fixed;
+ 	background-size: cover;
+	background-image: url(../pic/background-calm-clouds-747964.jpg);
+}
+.main_about{
+	background-attachment: fixed;
+ 	background-size: cover;
+	background-image: url(../pic/art-background-blur-586744.jpg);
+}
+
+.header{
+	opacity: 0.9;
+	padding-top: 20px;
+	padding-left: 170px;
+	width: auto;
+	height: 120px;
+	background-color: black;
+	min-width: auto;
+	max-width: auto;
+}
+.logo_text h2{
+	font-size: 1.2em;
+	font-family: 'Play', sans-serif;
+	color: white;
+}
+
+.logo_text h1, .logo_text a{
+	font-family: 'Play', sans-serif;
+	text-decoration: none;
+	color: white;
+}
+.menubar{
+	width: 900px;
+	height:40px;
+
+}
+ul.menu_list{
+	float: right;
+}
+ul.menu_list li{
+	font-family: 'Play', sans-serif;
+	padding: 30px 40px 10px 20px;
+	float: left;
+	list-style: none;
+
+}
+.menu_list a{
+	letter-spacing: 0.1em;
+	color: white;
+	text-decoration: none;
+}
+.main_info_text, .main_info_text2{
+	margin:  140px auto;
+	font-size: 130%;
+	text-align: center;
+	width: 400px;
+	border-radius: 15px;
+	background: rgba(255, 255, 255, 0.8);
+	font-family:'Ubuntu Condensed', sans-serif;
+	padding: 10px 40px 20px 40px;
+}
+.main_info_text h1{
+	padding-bottom: 20px;
+}
+.main_info_header p{
+	padding: 20px 40px 20px 40px;
+}
+.main_info_text2{
+	width: 500px;
+}
+.main_page_pictures{
+	border-radius: 10px;
+	background: rgba(255, 255, 255, 0.8);
+	text-align: center;
+	width: 1250px;
+    margin:  0 auto;
+	padding: 20px 40px 20px 40px;
+}
+.main_page_pictures_about{
+	border-radius: 10px;
+	background: rgba(38, 38, 38, 0.5);
+	text-align: center;
+	width: 1250px;
+    margin:  0 auto;
+	padding: 20px 40px 20px 40px;
+}
+.main_page_pictures img, .main_page_pictures_about img{
+	margin: 20px 20px 20px 20px;
+	width: 350px;
+	border: solid 4px rgba(255,255,255);
+	border-radius: 5px;
+}
+
+.pdf{
+	margin-top: 50px;
+	text-align: center;
+	padding-bottom: 100px;
+}
+

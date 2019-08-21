@@ -1,0 +1,29 @@
+*{
+	margin: : 0px;
+	padding: 0px;
+}
+.main_c h1{
+	font-size: 320%;
+	font-family: 'Amatic SC', cursive;
+}
+.main_c p{
+	font-family: 'Comfortaa', cursive;
+}
+.main_c{
+	width: auto;
+	background-image: url(../assets/pic/background-black-colors-952670.jpg);
+	text-align: center;
+
+}
+.in{
+	padding: 0 4px 0 4px;
+	background-color: #3385ff;
+	border-radius: 3px;
+	color:white;
+}
+#linked a{
+	color: black;
+	font-size: 200%;
+	font-family: Impat;
+	text-decoration: none;
+}
