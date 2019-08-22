@@ -1,0 +1,12 @@
+.background{
+	background-attachment: fixed;
+	background-position: center;
+ 	background-size: cover;
+background-image: url(../pic/art-background-blur-586744.jpg);
+}
+.menu_list a:hover{
+	color: #ffcc00;
+}
+#homepage{
+	color:#ffcc00;
+}

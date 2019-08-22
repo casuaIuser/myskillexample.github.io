@@ -1,0 +1,53 @@
+.header{
+	opacity: 0.9;
+	padding-top: 20px;
+	padding-left: 170px;
+	width: auto;
+	height: 120px;
+	background-color: black;
+	min-width: 660px;
+	max-width: auto;
+}
+.logo_text h2{
+	font-size: 1.2em;
+	font-family: 'Play', sans-serif;
+	color: white;
+}
+.logo_text h1, .logo_text a{
+	font-family: 'Play', sans-serif;
+	text-decoration: none;
+	color: white;
+}
+.menubar{
+	width: 900px;
+	height:40px;
+}
+ul.menu_list{
+	float: right;
+}
+ul.menu_list li{
+	font-family: 'Play', sans-serif;
+	padding: 30px 40px 10px 20px;
+	float: left;
+	list-style: none;
+}
+.menu_list a{
+	letter-spacing: 0.1em;
+	color: white;
+	text-decoration: none;
+}
+ul.language{
+	position:absolute;
+	top:0;
+	right:0;
+	list-style: none;
+	color:white;
+}
+ul.language li{
+	float: left;
+	padding: 10px 15px 0 0;
+	font-family: impact;
+}
+ul.language li img{
+	width: 20px;
+}

@@ -1,0 +1,21 @@
+#homepage{
+	color: #df80ff;
+}
+.background{
+	background-attachment: fixed;
+	background-position: center;
+ 	background-size: cover;
+	background-image: url(../pic/main/background-calm-clouds-747964.jpg);
+}
+.cer{
+	border-radius: 10px;
+	margin-top: 50px;
+	text-align: center;
+	padding-bottom: 100px;
+}
+.cer img{
+	border-radius: 10px;
+}
+.menu_list a:hover{
+	color: #df80ff;
+}

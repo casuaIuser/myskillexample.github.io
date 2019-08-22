@@ -1,0 +1,26 @@
+.main_page_pictures{    
+	
+	text-align: center;
+	width: 1fr;
+
+    margin:  0 auto;
+	padding: 20px 20px 20px 20px;
+}
+.main_page_pictures_about{
+	border-radius: 10px;
+	background: rgba(38, 38, 38, 0.9);
+	text-align: center;
+	width: 1fr;
+    margin:  110px;
+	padding: 20px 120px 20px 120px;
+}
+.main_page_pictures img, .main_page_pictures_about img{
+	
+	width: 350px;
+	border: solid 4px rgba(255,255,255,0.8);
+	border-radius: 5px;
+}
+.main_page_pictures img:hover, .main_page_pictures_about img:hover{
+	transform: scale(1.4);
+	border: solid 4px rgba(255,255,255);
+}

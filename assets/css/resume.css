@@ -1,0 +1,34 @@
+.background{
+	background-attachment: fixed;
+	
+ 	background-size: cover;
+background-image: url(../pic/main/background-bright-close-up-413195.jpg);
+}
+
+ul.resume_menu li{
+	float: left;
+	list-style: none;
+}
+.resume_box{
+	margin:  140px auto 140px auto;
+	font-size: 130%;
+	text-align: center;
+	width: 800px;
+	height: 800px;
+	border-radius: 15px;
+	background: rgba(255, 255, 255, 0.95);
+	font-family:'Ubuntu Condensed', sans-serif;
+	padding: 10px 40px 10px 40px;
+}
+ul.resume_menu li{
+	padding: 30px 40px 10px 20px;
+	float: left;
+	list-style: none;
+}
+
+#homepage{
+	color:#47d147;
+}
+.menu_list a:hover{
+	color: #47d147;
+}

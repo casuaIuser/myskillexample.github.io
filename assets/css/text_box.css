@@ -1,0 +1,13 @@
+.text_box{
+	margin:  140px auto 140px auto;
+	font-size: 130%;
+	text-align: center;
+	width: 400px;
+	border-radius: 15px;
+	background: rgba(255, 255, 255, 0.8);
+	font-family:'Ubuntu Condensed', sans-serif;
+	padding: 10px 40px 10px 40px;
+}
+.text_box h1{
+	padding-bottom: 20px;
+}
